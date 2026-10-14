@@ -1,4 +1,4 @@
-### No script [luanti.sh][luanti.sh], se atentar as linhas:
+### Se atentar as linhas do script:
 ---
 - 4: Verificar se o local bate com a pasta onde o Luanti (Minetest) guarda os mundos criados;
 - 24: Verificar se quer realmente abrir na porta 30000;
